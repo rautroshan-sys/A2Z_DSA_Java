@@ -202,7 +202,6 @@ Other languages may be added in the future.
 
 ## 🎯 Goals
 
-- Build strong DSA fundamentals
 - Improve logical and problem-solving skills
 - Understand different approaches to problems
 - Analyze Time and Space Complexity
