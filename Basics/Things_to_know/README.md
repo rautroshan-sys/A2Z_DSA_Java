@@ -251,16 +251,16 @@ A2Z-DSA-Java/
 
 ### Learn the Basics
 
-- [ ] Things to Know in Java
-- [ ] Input / Output
-- [ ] Conditionals
-- [ ] Loops
-- [ ] Methods
-- [ ] Arrays
-- [ ] Strings
-- [ ] Basic Mathematics
-- [ ] Basic Recursion
-- [ ] Basic Hashing
+- [x] Things to Know in Java
+- [x] Input / Output
+- [x] Conditionals
+- [x] Loops
+- [x] Methods
+- [x] Arrays
+- [x] Strings
+- [x] Basic Mathematics
+- [x] Basic Recursion
+- [x] Basic Hashing
 
 ### Next
 
