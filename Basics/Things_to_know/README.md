@@ -220,33 +220,6 @@ Analyze Time & Space Complexity
 
 ---
 
-## 📂 Folder Structure
-
-```text
-A2Z-DSA-Java/
-│
-├── 01-Learn-the-Basics/
-│   ├── 01-Things-to-Know/
-│   ├── 02-Build-Up-Logical-Thinking/
-│   ├── 03-Learn-Arrays/
-│   └── 04-Learn-Strings/
-│
-├── 02-Sorting-Techniques/
-├── 03-Arrays/
-├── 04-Binary-Search/
-├── 05-Strings/
-├── 06-Linked-List/
-├── 07-Recursion/
-├── 08-Bit-Manipulation/
-├── 09-Stack-and-Queue/
-├── 10-Sliding-Window-Two-Pointer/
-├── ...
-│
-└── README.md
-```
-
----
-
 ## 📈 Progress
 
 ### Learn the Basics
