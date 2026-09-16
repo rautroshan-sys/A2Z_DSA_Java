@@ -1,3 +1,4 @@
+package DSA.Basics.Things_to_know;
 import java.util.Scanner;
 
 public class Switch{

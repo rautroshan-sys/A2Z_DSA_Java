@@ -1,3 +1,4 @@
+package DSA.Basics.Things_to_know;
 class Person {
     int age;
 }

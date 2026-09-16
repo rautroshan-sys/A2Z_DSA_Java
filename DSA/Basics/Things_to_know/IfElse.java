@@ -1,3 +1,4 @@
+package DSA.Basics.Things_to_know;
 // Import Scanner class to take user input
 
 import java.util.Scanner;

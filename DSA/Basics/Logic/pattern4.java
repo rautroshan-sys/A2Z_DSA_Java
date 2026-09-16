@@ -1,4 +1,5 @@
-class Pattern3 {
+package DSA.Basics.Logic;
+class Pattern4 {
     public static void main(String[] args) {
 
         int n = 4;
@@ -6,7 +7,7 @@ class Pattern3 {
         for (int i = 1; i <= n; i++) {
 
             for (int j = 1; j <= i; j++) {
-                System.out.print(j);
+                System.out.print(i);
             }
 
             System.out.println();
@@ -17,7 +18,7 @@ class Pattern3 {
 /*
 OUTPUT:
 1
-12
-123
-1234
+22
+333
+4444
  */
