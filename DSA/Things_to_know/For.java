@@ -1,4 +1,4 @@
-package DSA.Basics.Things_to_know;
+package DSA.Things_to_know;
 public class For{
     public static void main(String[] args){
         for(int i = 0; i<10; i++){

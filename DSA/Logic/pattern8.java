@@ -1,4 +1,4 @@
-package DSA.Basics.Logic;
+package DSA.Logic;
 class Pattern {
     public static void main(String[] args) {
 

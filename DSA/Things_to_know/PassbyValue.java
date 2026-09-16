@@ -1,4 +1,4 @@
-package DSA.Basics.Things_to_know;
+package DSA.Things_to_know;
 public class PassbyValue {
 
     static void change(int x) {

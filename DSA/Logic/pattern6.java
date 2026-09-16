@@ -1,4 +1,4 @@
-package DSA.Basics.Logic;
+package DSA.Logic;
 class Pattern6 {
     public static void main(String[] args) {
 
